@@ -1,0 +1,5 @@
+phase,val_accuracy_of_final_cumulative_cnn
+Phase1_CIFAKE,0.4583
+Phase3_AI_vs_Real,0.8000
+Phase4_AI_vs_Human,0.4739
+Phase5_Faces,0.9100

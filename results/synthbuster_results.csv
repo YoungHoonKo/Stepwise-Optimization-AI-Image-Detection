@@ -1,0 +1,11 @@
+backbone,training,phase,test_accuracy,test_loss,source
+CNN,individual,Phase1_CIFAKE,0.2019,,notebooks/02_model_comparison.ipynb
+CNN,individual,Phase3_AI_vs_Real,0.4824,,notebooks/02_model_comparison.ipynb
+CNN,individual,Phase4_AI_vs_Human,0.4848,,notebooks/02_model_comparison.ipynb
+CNN,individual,Phase5_Faces,0.7910,,notebooks/02_model_comparison.ipynb
+CNN,cumulative,Phase1-3-4-5,0.7854,1.1971,notebooks/02_model_comparison.ipynb
+ResNet18,individual,Phase1_CIFAKE,0.1884,11.8938,notebooks/02_model_comparison.ipynb
+ResNet18,individual,Phase3_AI_vs_Real,0.5000,1.1690,notebooks/02_model_comparison.ipynb
+ResNet18,individual,Phase4_AI_vs_Human,0.4408,4.2131,notebooks/02_model_comparison.ipynb
+ResNet18,individual,Phase5_Faces,0.8756,0.3323,notebooks/02_model_comparison.ipynb
+ResNet18,cumulative,Phase1-3-4-5,0.8832,0.3287,notebooks/02_model_comparison.ipynb
